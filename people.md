@@ -1,2 +1,1 @@
-new string
-people people
+Haskell Curry
