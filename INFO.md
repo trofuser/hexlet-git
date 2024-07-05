@@ -1,5 +1,4 @@
 git is awesome!
 new line
-A n o t h e r   s t r i n g 
 Something other for changes
  
